@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-
+import farmerImg from "../assets/young-farmer.jpg";
 const fadeUp = {
   hidden: { opacity: 0, y: 40 },
   show: {
@@ -79,12 +79,11 @@ export default function App() {
 
         {/* RIGHT SIDE (IMAGE) */}
         <motion.img
-          variants={fadeUp}
-          src="sere-innovations/src/assets/young-farmer.jpg"
-          alt="Incubator"
-          className="rounded-2xl shadow-xl max-w-md w-full"
-        />
-
+  variants={fadeUp}
+  src={farmerImg}
+  alt="Incubator"
+  className="rounded-2xl shadow-xl max-w-md w-full"
+/>
       </motion.section>
 
     </div>
