@@ -10,7 +10,7 @@
 - Farmer-focused communication
 
 ## Live Link
-(Add your Vercel link)
+https://sere-innovations-tau.vercel.app
 
 ## Approach
 Focused on clarity, trust, and usability for rural users.
