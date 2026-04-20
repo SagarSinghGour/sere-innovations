@@ -80,7 +80,7 @@ export default function App() {
         {/* RIGHT SIDE (IMAGE) */}
         <motion.img
           variants={fadeUp}
-          src="/Users/sagarsinghgour/Desktop/sere-innovations/sere-innovations/src/assets/young-farmer.jpg"
+          src="sere-innovations/src/assets/young-farmer.jpg"
           alt="Incubator"
           className="rounded-2xl shadow-xl max-w-md w-full"
         />
